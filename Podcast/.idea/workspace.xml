@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b5734956-1f01-4924-be26-fb19160e0e91" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/FillGoogleSheetWithTestResults.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/FillGoogleSheetWithTestResults.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1bDoMGPXqG5iHENc9LXU4564LAt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Podcast_ShowDetailsPage_VerifyEpisodesHaveImageURLPubDateAndDurationSeconds">
+    <configuration name="Podcast_HTML_BranchIOTagsComparison" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Podcast" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Podcast_HTML_BranchIOTagsComparison.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Podcast_ShowDetailsPage_NationalAndStationPagesReturn200" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Podcast" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Podcast_ShowDetailsPage_NationalAndStationPagesReturn200.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Podcast_ShowDetailsPage_StationPagesReturn200" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Podcast" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Podcast_ShowDetailsPage_StationPagesReturn200.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Podcast_ShowDetailsPage_Verify20EpisodesForOneSpecificPodcast" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Podcast" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Podcast_ShowDetailsPage_Verify20EpisodesForOneSpecificPodcast.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Podcast_ShowDetailsPage_VerifyEpisodesHaveImageURLPubDateAndDurationSeconds" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Podcast" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Podcast_ShowDetailsPage_VerifyEpisodesHaveImageURLPubDateAndDurationSeconds.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Podcast_ShowDetailsPage_VerifyEpisodesHaveImageURLPubDateAndDurationSeconds" />
+        <item itemvalue="Python.Podcast_ShowDetailsPage_Verify20EpisodesForOneSpecificPodcast" />
+        <item itemvalue="Python.Podcast_ShowDetailsPage_StationPagesReturn200" />
+        <item itemvalue="Python.Podcast_ShowDetailsPage_NationalAndStationPagesReturn200" />
+        <item itemvalue="Python.Podcast_HTML_BranchIOTagsComparison" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5734956-1f01-4924-be26-fb19160e0e91" name="Default Changelist" comment="" />
+      <created>1588175975103</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588175975103</updated>
+      <workItem from="1588175980545" duration="7186000" />
+      <workItem from="1588247596492" duration="4056000" />
+      <workItem from="1588364059105" duration="2563000" />
+      <workItem from="1588597626712" duration="3838000" />
+      <workItem from="1588681110355" duration="6166000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="546" y="120" key="#Podcast_FillGoogleSheetWithTestResults" timestamp="1588260596642">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="546" y="120" key="#Podcast_FillGoogleSheetWithTestResults/0.0.1680.1050@0.0.1680.1050" timestamp="1588260596642" />
+    <state x="546" y="120" key="#Podcast_HTML_BranchIOTagsComparison" timestamp="1588261847656">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="546" y="120" key="#Podcast_HTML_BranchIOTagsComparison/0.0.1680.1050@0.0.1680.1050" timestamp="1588261847656" />
+    <state x="546" y="120" key="#Podcast_ShowDetailsPage_VerifyEpisodesHaveImageURLPubDateAndDurationSeconds" timestamp="1588259680128">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="546" y="120" key="#Podcast_ShowDetailsPage_VerifyEpisodesHaveImageURLPubDateAndDurationSeconds/0.0.1680.1050@0.0.1680.1050" timestamp="1588259680128" />
+    <state x="439" y="189" key="#Scopes" timestamp="1588187440135">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="439" y="189" key="#Scopes/0.0.1680.1050@0.0.1680.1050" timestamp="1588187440135" />
+    <state x="546" y="120" key="#callGspreadScript_(1)" timestamp="1588260059932">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="546" y="120" key="#callGspreadScript_(1)/0.0.1680.1050@0.0.1680.1050" timestamp="1588260059932" />
+    <state width="1636" height="210" key="GridCell.Tab.0.bottom" timestamp="1588783830426">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1636" height="210" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1588783830426" />
+    <state width="1636" height="210" key="GridCell.Tab.0.bottom/0.23.1680.947@0.23.1680.947" timestamp="1588610604137" />
+    <state width="1636" height="210" key="GridCell.Tab.0.center" timestamp="1588783830425">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1636" height="210" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1588783830425" />
+    <state width="1636" height="210" key="GridCell.Tab.0.center/0.23.1680.947@0.23.1680.947" timestamp="1588610604137" />
+    <state width="1636" height="210" key="GridCell.Tab.0.left" timestamp="1588783830424">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1636" height="210" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1588783830424" />
+    <state width="1636" height="210" key="GridCell.Tab.0.left/0.23.1680.947@0.23.1680.947" timestamp="1588610604137" />
+    <state width="1636" height="210" key="GridCell.Tab.0.right" timestamp="1588783830426">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1636" height="210" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1588783830426" />
+    <state width="1636" height="210" key="GridCell.Tab.0.right/0.23.1680.947@0.23.1680.947" timestamp="1588610604137" />
+    <state width="1636" height="362" key="GridCell.Tab.1.bottom" timestamp="1588782536166">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1636" height="362" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1588782536166" />
+    <state width="1636" height="362" key="GridCell.Tab.1.center" timestamp="1588782536165">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1636" height="362" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1588782536165" />
+    <state width="1636" height="362" key="GridCell.Tab.1.left" timestamp="1588782536164">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1636" height="362" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1588782536164" />
+    <state width="1636" height="362" key="GridCell.Tab.1.right" timestamp="1588782536165">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1636" height="362" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1588782536165" />
+    <state x="340" y="164" key="SettingsEditor" timestamp="1588187597506">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="340" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1588187597506" />
+    <state x="515" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1588681116611">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state x="515" y="356" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1588597642734" />
+    <state x="515" y="344" key="com.intellij.ide.util.TipDialog/0.23.1680.947@0.23.1680.947" timestamp="1588681116611" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Podcast$Podcast_FillGoogleSheetWithTestResults.coverage" NAME="Podcast_FillGoogleSheetWithTestResults Coverage Results" MODIFIED="1588365183121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../lib" />
+    <SUITE FILE_PATH="coverage/Podcast$SEO_HTML_TitleAndDescriptionComparison.coverage" NAME="SEO_HTML_TitleAndDescriptionComparison Coverage Results" MODIFIED="1588599036614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../SEO" />
+    <SUITE FILE_PATH="coverage/Podcast$Podcast_ShowDetailsPage_Verify20EpisodesForOneSpecificPodcast.coverage" NAME="Podcast_ShowDetailsPage_Verify20EpisodesForOneSpecificPodcast Coverage Results" MODIFIED="1588783810717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Podcast$Podcast_ShowDetailsPage_NationalAndStationPagesReturn200.coverage" NAME="Podcast_ShowDetailsPage_NationalAndStationPagesReturn200 Coverage Results" MODIFIED="1588782555989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Podcast$FillGoogleSheetWithTestResults.coverage" NAME="FillGoogleSheetWithTestResults Coverage Results" MODIFIED="1588782294336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../lib" />
+    <SUITE FILE_PATH="coverage/Podcast$Podcast_ShowDetailsPage_VerifyEpisodesHaveImageURLPubDateAndDurationSeconds.coverage" NAME="Podcast_ShowDetailsPage_VerifyEpisodesHaveImageURLPubDateAndDurationSeconds Coverage Results" MODIFIED="1588783830413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Podcast$callGspreadScript.coverage" NAME="callGspreadScript Coverage Results" MODIFIED="1588188225079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../../python" />
+    <SUITE FILE_PATH="coverage/Podcast$Podcast_HTML_BranchIOTagsComparison.coverage" NAME="Podcast_HTML_BranchIOTagsComparison Coverage Results" MODIFIED="1588782535905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Podcast$Podcast_ShowDetailsPage_StationPagesReturn200.coverage" NAME="Podcast_ShowDetailsPage_StationPagesReturn200 Coverage Results" MODIFIED="1588782683188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Podcast$callGspreadScript__1_.coverage" NAME="callGspreadScript (1) Coverage Results" MODIFIED="1588365196186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Podcast$Podcast_HTML_TitleAndDescriptionAndImageComparison.coverage" NAME="Podcast_HTML_TitleAndDescriptionAndImageComparison Coverage Results" MODIFIED="1588782310407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

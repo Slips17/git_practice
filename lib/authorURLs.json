@@ -1,0 +1,32 @@
+[
+    {
+        "url": "sanitized",
+        "expected_pid": "authors_shana",
+        "expected_tag": "authors"
+    },
+    {
+        "url": "sanitized",
+        "expected_pid": "authors_shana-2",
+        "expected_tag": "authors"
+    },
+    {
+        "url": "sanitized",
+        "expected_pid": "authors_auto-author-shana",
+        "expected_tag": "authors"
+    },
+    {
+        "url": "sanitized",
+        "expected_pid": "authors_shana-cats",
+        "expected_tag": "authors"
+    },
+    {
+        "url": "sanitized",
+        "expected_pid": "authors_shana-auto-really-long-name-auth",
+        "expected_tag": "authors"
+    },
+    {
+        "url": "sanitized",
+        "expected_pid": "authors_shana",
+        "expected_tag": "authors"
+    }
+]

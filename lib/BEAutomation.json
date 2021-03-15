@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sanitized",
+  "private_key_id": "sanitized",
+  "private_key": "sanitized",
+  "client_email": "sanitized",
+  "client_id": "sanitized",
+  "auth_uri": "sanitized",
+  "token_uri": "sanitized",
+  "auth_provider_x509_cert_url": "sanitized",
+  "client_x509_cert_url": "sanitized"
+}
